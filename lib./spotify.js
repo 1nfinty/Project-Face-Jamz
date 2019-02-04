@@ -11,7 +11,7 @@ var spotifyEmotionURIS = {
 
 
 var device_id
-const token = 'BQARxqS4_pf1xr_gpRL0cpNATRzRrFhF3T36rEIWjj4ax4YYfkB7JdxLGv7CQ9DVJrDruCBUEkUszRzKEpfzcu19AlrDgg3UgjXf-4_aP7SPEf2rShQbSw4He3eoG1AaSZpAKgYc5Jx5a4G_m5onAQHwbuOGEtxC7QQWa85_Aw6b';
+const token = 'BQD33ho2J1B7vbQlj6R93XDNGNaPMuc7sqb_D03hfrG-9uMTS8G6XtzsxXdiBazS952xR7BgKFsIMzPYxt_px3gQXBBYzK7IJp-bwShjmzHCeupoyxUHRe4hXKlhC-cfQuYcIDHN7C8Xkli3XsEOUW57n5AVMCIBxJ4GjqZQ281ZwFBFAuUpl3ovsS3y';
 
 
 function playPlaylist(spotifyEmotion) {

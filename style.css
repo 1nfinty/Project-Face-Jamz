@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Spicy Rice', cursive, Arial;
+    font-size: 17px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  video, 
+  canvas {
+    display: block;
+    margin: 0 auto;
+    /* border: 2px solid white; */
+  }
+  
+  
+  
+  
+  .get-jams{
+    background-color: rgb(29, 185, 29);
+    height: 50px;
+    width: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(93, 62, 231);
+  }
+  .pic-retake{
+    height: 50px;
+    width: 50px;
+    background-color:red;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  .section{
+    text-align: center;
+  }
+  h1{
+    color: rgb(153, 136, 212);
+  }
+  
+  .jumbotron {
+    background-color: rgba(255, 255, 255, 0);
+    padding: 0 0;
+    text-align: center;
+  }
+  
+  #responseTextArea {
+    color: white;
+  
+  }
+  .player{
+    align-content: center;
+  }
+  
+  #albumImageDiv,
+  #artist,
+  #songTitle,
+  #albumTitle {
+    color: white;
+    padding-top: 10px;
+  }
+  
+  
+  
+  .display-2 {
+    color: rgb(153, 136, 212);
+    padding-top: 20px;
+  }
